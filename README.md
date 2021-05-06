@@ -24,6 +24,6 @@ Finding the MFCC of the audio data and using them as the features for training a
 ![Model Architecture](images/emotion.PNG)
 
 
-### Joint
+### Combined Class
 
 ![Model Architecture](images/joint.PNG)
